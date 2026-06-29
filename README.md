@@ -28,6 +28,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0001-two-sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/noufbamne/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
