@@ -31,6 +31,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0015-3sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -97,5 +98,6 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
