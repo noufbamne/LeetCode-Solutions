@@ -24,6 +24,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0073-set-matrix-zeroes](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0075-sort-colors](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
