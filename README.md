@@ -52,6 +52,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0540-single-element-in-a-sorted-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/noufbamne/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -115,4 +116,5 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0162-find-peak-element](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
