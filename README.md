@@ -38,6 +38,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0053-maximum-subarray](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0033-search-in-rotated-sorted-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0162-find-peak-element) |
