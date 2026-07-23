@@ -25,6 +25,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
