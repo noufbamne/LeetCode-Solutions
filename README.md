@@ -25,6 +25,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | ------- |
 | [0125-valid-palindrome](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -141,4 +142,8 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
