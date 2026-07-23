@@ -28,6 +28,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0014-longest-common-prefix](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0001-two-sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
