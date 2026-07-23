@@ -9,6 +9,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0007-reverse-integer](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 | [0151-reverse-words-in-a-string](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions practiced by Nouf Bamne to ace the coding int
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/noufbamne/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/noufbamne/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
