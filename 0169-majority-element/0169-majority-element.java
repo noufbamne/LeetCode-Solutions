@@ -19,10 +19,10 @@ class Solution {
         int cnt1 =0;
         for(int i =0; i < nums.length; i++){
             if (nums[i] == el){
-                cnt++;
+                cnt1++;
             }
 
-            if (cnt > nums.length/2){
+            if (cnt1 > nums.length/2){
                 return nums[i];
             }
         }
